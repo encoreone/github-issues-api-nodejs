@@ -1,5 +1,5 @@
 <h2>Github issues api</h2>
-<h3>npm i && npm start</h3>
+<h3>Для запуска: npm i && npm start</h3>
 
 <h4>Просматривать issue произвольного репо - localhost:5000/api/repos/:owner/:repo/issues</h4>
 <h4>Пример - localhost:5000/api/repos/facebook/react/issues</h4>
